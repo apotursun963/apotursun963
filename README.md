@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I like learning new things about technology 💻
+
 <!--
 **apotursun963/apotursun963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
